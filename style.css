@@ -1,0 +1,44 @@
+ul,li{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin-left: 25px;
+    padding: 10px 20px;
+    background-color: #FF8343;
+    border-color: #F1DEC6;
+    border-radius: 10px;
+}
+a,da{
+    background: #F1DEC6;
+    color: #179BAE;
+    display: block;
+    font: Georgia 14px bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+li:hover{
+    background: #179BAE;
+}
+
+.anton-regular {
+    font-family: "Anton", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+li{
+    font-family: "Anton", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    font-family: "Anton", serif;
+    font-weight: 400;
+    font-style: normal;
+}
